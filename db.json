@@ -1,4 +1,25 @@
 {
+  "destinations": [
+    {
+      "id": 1,
+      "userId": "123",
+      "datetime": "Sat, 23 Mar 2019 15:37:36 GMT",
+      "lat": -33.442760,
+      "lon": -70.656672,
+      "name": "My Home",
+      "address": "Home St"
+    },
+    {
+      "id": 2,
+      "userId": "123",
+      "datetime": "Sat, 23 Mar 2019 15:37:36 GMT",
+      "lat": -33.442779,
+      "lon": -70.656683,
+      "name": "My Work",
+      "address": "Work St"
+    }
+  ]
+
   "restaurants": [
     {
       "id": 1,
