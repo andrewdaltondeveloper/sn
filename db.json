@@ -4,8 +4,8 @@
       "id": 1,
       "userId": "123",
       "datetime": "Sat, 23 Mar 2019 15:37:36 GMT",
-      "lat": 53.28779529999,
-      "lon": -6.2035681,
+      "lat": 53.2919706,
+      "lon": -6.2060317,
       "name": "My Home",
       "address": "Home St"
     },
@@ -13,8 +13,8 @@
       "id": 2,
       "userId": "123",
       "datetime": "Sat, 23 Mar 2019 15:37:36 GMT",
-      "lat": 53.28779619999,
-      "lon": -6.2035682,
+      "lat": 53.2645451,
+      "lon": -6.2334758,
       "name": "My Work",
       "address": "Work St"
     }
